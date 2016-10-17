@@ -2,7 +2,7 @@ Package: EBSeqHMM
 Type: Package
 Title: Bayesian analysis for identifying gene or isoform expression
         changes in ordered RNA-seq experiments
-Version: 1.7.0
+Version: 1.8.0
 Date: 2015-03-21
 Author: Ning Leng, Christina Kendziorski
 Depends: EBSeq
